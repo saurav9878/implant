@@ -1,14 +1,15 @@
 # Implant
 
 ```
-I have an awesome moonshot idea for my MVP, let me buy a domain. Cool! I bought moonshot-idea.com.
+I have an awesome moonshot idea for my MVP, let me buy a domain.
+Cool! I bought moonshot-idea.com.
 Now, I will quickly build a website, let me use website builders like Framer, Wix.
 
 You remember it's MVP, pace matters, bla bla bla.
 
-Ok! I ended up with a website like moonshot.framer.app or moonshot.wixsite.com. How do I replace
-that with my purchased domain. Wait what, I will have to pay for hosting for custom domain
-or I'm stuck with the suffix. That sucks!
+Ok! I ended up with a website like moonshot.framer.app or moonshot.wixsite.com. How do I
+replace that with my purchased domain. Wait what, I will have to pay for hosting for
+custom domain or I'm stuck with the suffix. That sucks!
 
 I know fellow founders what pain you go through, that's why I built Implant
 ```
