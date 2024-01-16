@@ -23,6 +23,6 @@ I have tested only with Firebase so far, feel free to test with other offerings 
 ## How to use
 
 1. Use this official guide to create a [sample firebase hosting app](https://firebase.google.com/docs/hosting/quickstart)
-2. Replace `public/index.html` with html generated from [Implant](https://implant.github.io).
+2. Replace `public/index.html` with html generated from [Implant](https://saurav9878.github.io/implant/).
 3. Then you will have a working firebase app with the website builder website.
 4. Final step is adding [custom domain to the firebase app](https://firebase.google.com/docs/hosting/custom-domain)
